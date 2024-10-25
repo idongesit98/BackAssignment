@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "product_name": "Ovaltine",
+    "price": "600",
+    "size": "l",
+    "date_created": "2024-10-21T14:51:46.315Z"
+  },
+  {
+    "id": "2",
+    "product_name": "Bournvita",
+    "price": "1000",
+    "size": "l",
+    "updateAt": "2024-10-22T13:29:22.150Z"
+  },
+  {
+    "id": "3",
+    "product_name": "Fouani Indcution cooker",
+    "price": "47000",
+    "size": "m",
+    "updateAt": "2024-10-25T15:01:03.933Z"
+  }
+]

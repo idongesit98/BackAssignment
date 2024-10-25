@@ -1,0 +1,11 @@
+{
+  "name": "firstassignment",
+  "version": "1.0.0",
+  "description": "First Assignment involving creating a 404 page",
+  "main": "error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idongesit Samuel",
+  "license": "ISC"
+}
